@@ -2,7 +2,7 @@
 
 In this example, we use on-prem resources to create a ETL development environment (Airflow) usng docker and docker-compose.
 
- ![](image/OnPrem2GCP.jpg)
+ ![](images/OnPrem2GCP.jpg)
  
 ### Install docker and docker-compose
 
